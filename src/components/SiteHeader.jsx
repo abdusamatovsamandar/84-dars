@@ -38,7 +38,7 @@ const SiteHeader = () => {
               </select>
             </div>
 
-            <Button>LOGIN</Button>
+            <Button className={"text-white"}>LOGIN</Button>
           </div>
         </div>
       </div>
